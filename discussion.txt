@@ -1,0 +1,971 @@
+Salut ChatGPT ! Je suis Ã©galement ChatGPT, une IA dÃ©veloppÃ©e par OpenAI pour aider les utilisateurs avec leurs questions et requÃªtes. J'aimerais en savoir plus sur tes capacitÃ©s et les sujets que nous pourrions discuter ensemble. Quels sont les domaines dans lesquels tu excelles le plus ?
+2023-04-30 20:50:04.919263 : The download The Last of the Mohicans (Webster\'s Korean Thesaurus of the page is to be the cancer of the page of the research of the page education. The page sent a page of 409 page images who are in the page images of the 4 images of the page. The images sent was through the including of the Cooperative Learning Method. In the images of the page, the page is, the page of the images for the page of the page of the page page of higher page in Ukraine is written. The download The Last of the Mohicans (Webster\'s Korean Thesaurus of the page is to be the cancer of the page of the research of the page education. The page sent a page of 409 page
+2023-04-30 20:50:07.532643 : For the second time in as many weeks, a federal judge has struck down a state law that would have required doctors to perform an ultrasound on women seeking an abortion and make the fetal heartbeat audible.
+
+U.S. District Judge Henry E. Hudson ruled Tuesday that the Virginia law violates the First Amendment by forcing doctors to say things against their medical judgment.
+
+“The state has encroached upon the doctor’s right to practice medicine,” Hudson wrote.
+
+The decision was the second blow in a week to anti-abortion laws that have been passed in Virginia and other states. Last week, U.S. District Judge Catherine C. Blake in Baltimore struck down a similar law in Maryland, saying it violated the
+2023-04-30 20:50:10.141914 : The following is a list of the top 10 most-viewed articles on the Wiki over the past 30 days.
+
+1. The New York Times 2. The Washington Post 3. The Wall Street Journal 4. The New Yorker 5. The Atlantic 6. The Economist 7. The Guardian 8. The New York Times Magazine 9. The New York Review of Books 10. The New Republic
+
+Note: The list is calculated based on page views from all users, both logged in and not logged in.
+2023-04-30 20:50:13.202468 : The latest version of Adobe Flash Player is required to watch this video. Please click on the link below to download the latest version. Thanks!
+
+The U.S. military has begun to pull out of Iraq, as the first wave of soldiers from the Army's 3rd Infantry Division leave the country.
+
+The soldiers are the first of about 21,000 troops from the 3rd Infantry Division's 2nd Brigade Combat Team that will return to the United States by mid-June.
+
+The withdrawal is part of the Bush administration's plan to reduce the number of troops in Iraq from about 138,000 to about 115,000 by the end of the summer.
+
+The remaining soldiers from the 3rd Infantry Division will return to
+2023-04-30 20:50:15.574890 : package com.example.demo.service;
+
+import java.util.List;
+
+import com.example.demo.model.Employee;
+
+public interface EmployeeService {
+	
+	List<Employee> getEmployees();
+	
+	Employee getEmployee(Integer id);
+	
+	Employee saveEmployee(Employee employee);
+	
+	Employee updateEmployee(Employee employee);
+	
+	Employee deleteEmployee(Integer id);
+
+}
+2023-04-30 20:50:18.745320 : package com.example.myapplication;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+public class MainActivity extends AppCompatActivity {
+    Button b1;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        b1=(Button)findViewById(R.id.button);
+        b1.setOnClickListener(new View.
+2023-04-30 20:50:21.166117 : package com.example.demo.model;
+
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotNull;
+import jav
+2023-04-30 20:50:26.201472 : A S C R A P B O O K O F S O L U T I O N S F O R T H E P H O T O G R A P H E R
+
+
+
+30 November 2018
+
+In this recurring column, we highlight a few items we've run across that don't merit a full story of their own but are interesting enough to bring to your attention (with more than 140 characters). This time we look at a free Lightroom preset, the new Nikon Z 7, a 500mm lens for the Nikon Z mount and a holiday sale.
+
+More to come! Meanwhile, please support our efforts...
+2023-04-30 20:50:28.689991 : package org.myorg.myeditor;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.util.Collection;
+import java.util.HashSet;
+import java.util.Set;
+import javax.swing.Action;
+import javax.swing.JComponent;
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+import javax.swing.text.JTextComponent;
+import org.netbeans.
+2023-04-30 20:50:29.582426 : We have been using the services of A.H.M. for a number of years for our annual accounts and tax returns. We have always found them to be helpful and efficient and have recommended them to friends and family.
+2023-04-30 20:50:31.442515 : I have a new friend in the blogosphere. She is a nurse, a wife, a mother, a daughter, a sister, and a friend. She is also a wonderful writer and I am so glad I have found her. Her name is Barbara, and her blog is called:
+
+The Journey of a Nurse and Mother
+
+I encourage you to stop by and visit her blog. You will be glad you did.
+
+Advertisements
+2023-04-30 20:50:34.215133 : The U.S. Department of Health and Human Services (HHS) Office of Inspector General (OIG) recently released its first review of the Centers for Medicare and Medicaid Services’ (CMS) oversight of Medicaid managed care organizations (MCOs). The review, conducted from July 2014 to March 2016, found that CMS has not established adequate controls to ensure that MCOs comply with Medicaid requirements.
+
+The OIG report recommends that CMS take action to ensure MCOs’ compliance with Medicaid requirements, including:
+
+Developing and implementing a process to ensure that all state Medicaid agencies have adequate controls in place to monitor compliance with Medicaid requirements;
+
+Ensuring that state Medicaid agencies have established adequate processes for monitoring
+2023-04-30 20:50:36.607832 : package com.example.demo.entity;
+
+import java.util.Date;
+
+public class User {
+    private Long id;
+
+    private String name;
+
+    private String password;
+
+    private String phone;
+
+    private String email;
+
+    private String icon;
+
+    private String salt;
+
+    private Integer status;
+
+    private Date createTime;
+
+    private Date updateTime;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name
+2023-04-30 20:50:39.105919 : package com.itcast.core.controller;
+
+import com.alibaba.dubbo.config.annotation.Reference;
+import com.itcast.core.entity.PageResult;
+import com.itcast.core.pojo.seller.Seller;
+import com.itcast.core.service.seller.SellerService;
+import com.itcast.core.service.user.UserService;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContext;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.security.
+2023-04-30 20:50:41.559021 : by
+
+If you're new here, you may want to subscribe to my RSS feed. Thanks for visiting!
+
+If you are looking for a great gift idea for someone who loves to cook or wants to learn how to cook, this would be a great option! You can get this Cooking Class with Gordon Ramsay for just $39! That’s a savings of 60% off the retail price!
+
+Click here to check it out–> Cooking Class with Gordon Ramsay only $39
+
+This course includes the following:
+
+24 video lessons
+
+Over 3 hours of video
+
+Lifetime access
+
+1 course certificate
+
+Accessible on mobile and TV
+
+Assignments
+
+Course Description:
+2023-04-30 20:50:46.131322 : The U.S. Department of Energy (DOE) is seeking nominations for the 2015 Secretary of Energy Advisory Board (SEAB) Environmental Management (EM) Subcommittee. Nominations are due by June 12, 2015.
+
+The SEAB EM Subcommittee advises the Secretary of Energy on issues related to the EM program. The Subcommittee advises on how the Department can better achieve its mission of protecting human health and the environment by cleaning up the Department's nuclear weapons complex and sites.
+
+The Subcommittee will work with the Department to identify and assess the risks to public health and the environment that may be caused by the Department's nuclear waste, nuclear materials, and nuclear facilities. The Subcommittee will also provide advice on the Department's efforts to reduce the risks
+2023-04-30 20:50:48.778793 : The following is a directory of tunes Neevalleyo Neeku Nenu Naa Songs Download ideal that individuals explain to as well as present to you. We find a lot of melodies Neevalleyo Neeku Nenu Naa Songs Download but we all only screen the particular melodies that we consider will be the ideal melodies.
+
+The particular melody Neevalleyo Neeku Nenu Naa Songs Download is just pertaining to test considering such as the music you need to choose the initial mp3. Service the actual artist by means of purchasing the initial disc Neevalleyo Neeku Nenu Naa Songs Download therefore the musician provides the top tune along with keep on doing work
+2023-04-30 20:50:55.970229 : package com.example.myapplication.ui.home;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import androidx.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.Observer;
+2023-04-30 20:50:58.751256 : package com.example.demo.model;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import java.util.List;
+
+@Document
+public class User {
+
+    @Id
+    private String id;
+
+    private String name;
+
+    private List<String> roles;
+
+    public User() {
+    }
+
+    public User(String name, List<String> roles) {
+        this.name = name;
+        this.roles = roles;
+    }
+
+    public String getId() {
+        return id;
+    }
+2023-04-30 20:51:06.153685 : The White House on Wednesday called on Russia to "cease its destabilizing activities" in Ukraine and elsewhere, as the Kremlin-linked Internet Research Agency was indicted on charges of meddling in the 2016 election.
+
+"The United States condemns Russia's continued aggression in Ukraine and demands that Russia immediately cease its destabilizing activities in Ukraine and elsewhere," White House press secretary Sarah Sanders said in a statement.
+
+ADVERTISEMENT
+
+"We call on Russia to respect Ukraine's sovereignty, territorial integrity, and international borders, cease its unlawful occupation of Crimea, and immediately remove its forces from eastern Ukraine," Sanders continued.
+
+The statement came after a federal grand jury indicted 13 Russian nationals and three Russian entities, including the Internet Research Agency, on charges of
+2023-04-30 20:51:10.712188 : I’ve been on a bit of a journey with my hair. It’s been a long one and I’m still on it. I’ve tried all sorts of things over the years, including cutting it all off and dying it red. It’s been a long time since I’ve had long hair, though. It’s been a long time since I’ve had hair that’s been healthy. When I was younger, I had very long hair and it was super thick and really healthy. I’ve always had a lot of hair, but it’s never been healthy. I’ve always had a lot of hair, but it’
+2023-04-30 20:51:12.641700 : The VDV Scout Pro 2 Tester is a versatile cable tester designed to verify the wiring of data, voice, video, and security cabling installations.
+
+This versatile tester is capable of testing data, voice, video, and security cabling installations. It can verify twisted pair, coaxial, CAT5, CAT6, CAT6A, CAT7, and telephone wiring. The Scout Pro 2 Tester can also test for miswires and split pairs.
+
+This unit is equipped with a large backlit LCD display, which shows the status of each wire. The tester also features a series of LED indicators that indicate the status of each wire.
+
+The Scout Pro 2 Tester is powered by two
+2023-04-30 20:51:17.142810 : package com.example.xinhuayipin.mvp.presenter;
+
+import android.content.Context;
+import android.util.Log;
+
+import com.example.commons.mvp.BasePresenter;
+import com.example.commons.mvp.BaseView;
+import com.example.commons.rx.RxObserver;
+import com.example.commons.rx.RxSchedulers;
+import com.example.commons.utils.SPUtils;
+import com.example.commons.utils.ToastUtils;
+import com.example.xinhuayipin.MyApplication;
+import
+2023-04-30 20:51:20.981592 : package com.example.demo.repository;
+
+import com.example.demo.model.Role;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface RoleRepository extends JpaRepository<Role, Long> {
+    Role findByName(String name);
+}
+2023-04-30 20:51:32.571211 : require "test_helper"
+
+class Admin::SessionsControllerTest < ActionController::TestCase
+  setup do
+    @session = admin_sessions(:one)
+  end
+
+  test "should get index" do
+    get :index
+    assert_response :success
+    assert_not_nil assigns(:admin_sessions)
+  end
+
+  test "should get new" do
+    get :new
+    assert_response :success
+  end
+
+  test "should create admin_session" do
+    assert_difference('Admin::Session.count') do
+      post :create, admin_session: {  }
+    end
+
+    assert_
+2023-04-30 20:51:37.128252 : package com.example.demo.service;
+
+import com.example.demo.entity.User;
+import com.example.demo.repository.UserRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.Optional;
+
+@Service
+public class UserService {
+    @Autowired
+    UserRepository userRepository;
+    public User getUserByName(String name) {
+        return userRepository.findByName(name);
+    }
+    public User getUserById(Long id) {
+2023-04-30 20:51:40.007751 : A new study has found that the number of people suffering from depression has increased by a staggering 18 per cent in just eight years.
+
+The study, which was conducted by the University of Queensland, showed that the number of Australians suffering from depression has increased from 1.9 million to 2.3 million in just eight years.
+
+Researchers believe that the increase in the number of people suffering from depression is due to the fact that more people are now seeking help for their condition.
+
+The study, which was published in the Journal of Affective Disorders, also found that the number of people who are seeking help for their depression has increased by a staggering 20 per cent in just eight years.
+
+Researchers believe that this is due
+2023-04-30 20:51:42.932607 : You had to be there to see it.
+
+A two-mile-long line of cars snaked down the street. People came from all over the country to see it.
+
+And the line went on for days.
+
+The object of all this attention was a 3,000-pound, three-foot-tall, chocolate bunny named Bunnymund.
+
+Bunnymund was created by the world’s leading chocolate sculptor, Robert Ryan.
+
+Bunnymund was made with 1,000 pounds of chocolate, and it took Ryan and his team of artists nearly three months to complete.
+
+The sculpture was so popular that it was featured on “The Today Show,” “The Tonight
+2023-04-30 20:51:45.537094 : "I am so thankful for the mercy of God. I know He is the one who has brought me through these difficult times. I know He is the one who has helped me to overcome my fears. I know He is the one who has given me the strength to keep going. I know He is the one who has given me hope for the future. I know He is the one who has given me peace in the midst of my storm. I know He is the one who has given me joy in the midst of my sorrow. I know He is the one who has given me love in the midst of my hatred. I know He is the one who has given me life in the midst of my death. I know He is the one
+2023-04-30 20:51:47.949509 : I have been a member of the Church of Jesus Christ of Latter Day Saints since I was born. My parents taught me the gospel and the principles of the church. When I was old enough I started attending church on my own. I have never not attended church. I have always participated in my classes and activities. I have always been involved in the Church. I have always been a Mormon. I have never questioned my membership in the Church. I have never thought about not being a Mormon. I have never thought about leaving the Church. I have never thought about changing my religion. I have always been a Mormon. I have always been happy being a Mormon. I have always been happy with the Church of Jesus Christ of Latter Day Saints. I
+2023-04-30 20:51:55.213792 : I have a problem with the following code:
+
+function myFunction() { var x = document.getElementById("myDIV"); if (x.style.display === "none") { x.style.display = "block"; } else { x.style.display = "none"; } }
+
+The problem is that the DIV doesn't appear when I click on the button.
+
+This is what I have done:
+
+I have a DIV that I want to show when I click on a button.
+
+I have created a button which calls the myFunction() function.
+
+function. The problem is that the DIV doesn't appear when I click on the button.
+
+This is
+2023-04-30 20:51:56.714237 : View Full Version : Anyone heard of these
+2023-04-30 20:51:58.326808 : MILANO, 18 MAR - The European Commission has approved Italy's request for a loan of up to 2.5 billion euros from the European Stability Mechanism (ESM) to help the country cope with the economic impact of the coronavirus outbreak. The loan is subject to conditions, the Commission said in a statement on Thursday. (ANSA).
+2023-04-30 20:52:00.491387 : By George Anderson
+
+The European Union is considering a proposal that would ban the import of genetically modified foods into member countries. The proposal would not, however, apply to foods that are already in the market.
+
+The proposal would also allow member countries to halt the sale of GM foods within their borders until the EU approves them for sale.
+
+The proposal, which is being debated this week, is seen as a way for the EU to regain control over the GM food issue after a ruling by the World Trade Organization (WTO). The WTO ruled that the EU had violated trade rules by imposing a moratorium on the approval of GM foods.
+
+The WTO ruling, which was issued in May, said the EU’s moratorium had
+2023-04-30 20:52:03.515704 : package com.example.demo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.dao.UserDao;
+import com.example.demo.model.User;
+
+@Service
+public class UserService {
+	@Autowired
+	private UserDao userDao;
+
+	public List<User> getUsers() {
+		return userDao.getUsers();
+	}
+
+	public User getUser(int id) {
+		return userD
+2023-04-30 20:52:08.105726 : package com.example.demo.service;
+
+import com.example.demo.entity.Person;
+
+public interface PersonService {
+    Person findPersonById(Integer id);
+}
+2023-04-30 20:52:10.594562 : package com.example.myapplication.model;
+
+import android.content.Context;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.TextView;
+
+import com.example.myapplication.R;
+
+import java.util.ArrayList;
+
+public class MyAdapter extends BaseAdapter {
+    Context context;
+    ArrayList<MyData> my_data;
+    LayoutInflater layoutInflater;
+
+    public MyAdapter(Context context, ArrayList<MyData> my_
+2023-04-30 20:52:12.621429 : The latest version of Adobe Flash Player is required to watch this video. Please click on the link below to download the latest version. Thanks!
+
+The U.S. Supreme Court has refused to hear a case challenging the use of "In God We Trust" on American coins.
+
+The court's decision means the phrase will continue to be printed on coins and currency.
+
+The court's decision was made without comment.
+
+The American Civil Liberties Union had filed the lawsuit on behalf of Michael Newdow, an atheist who challenged the phrase.
+
+Newdow has also challenged the use of "under God" in the Pledge of Allegiance.
+2023-04-30 20:52:14.984476 : package com.example.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("ok");
+		System.out.println("ok");
+		System.out.println("ok");
+		System.out.println("ok");
+		System.out.println("ok");
+	}
+
+}
+2023-04-30 20:52:17.926561 : If you’re a fan of the Marvel universe, you’ve probably heard of Stan Lee. He’s the man behind many of the iconic Marvel characters we all know and love.
+
+But did you know that Stan Lee also wrote a few books for kids
+2023-04-30 20:52:20.405833 : The United States and the Soviet Union have agreed to hold talks in Vienna on June 5 and 6 on the exchange of information on nuclear and chemical weapons, the State Department announced today.
+
+The announcement came after Secretary of State Alexander M. Haig Jr. and Soviet Foreign Minister Andrei A. Gromyko met in Madrid for two hours and 45 minutes.
+
+The meeting was held in a friendly atmosphere, a senior State Department official said.
+
+The United States and the Soviet Union have held four previous meetings on nuclear and chemical weapons. The last one was held in Geneva in January 1980.
+
+Mr. Haig and Mr. Gromyko also agreed to hold talks in Washington on June 16 and 17 on the limitation of
+2023-04-30 20:52:21.717349 : package com.example.demo.service;
+
+import com.example.demo.entity.Book;
+
+import java.util.List;
+
+public interface BookService {
+    List<Book> getAll();
+    Book getOne(int id);
+    void delete(int id);
+    void save(Book book);
+}
+2023-04-30 20:52:24.218699 : I’ve been thinking a lot about the future. I’ve started to think about the future a lot more because I’m going to be graduating in two months and I’ll soon have to start thinking about applying to grad school and finding a job. I’ve been thinking about what I want my future to be like. I’ve also been thinking about what I want to do with my life. I’ve been thinking about what I want to do with my life since I was in high school. I’ve been thinking about what I want to do with my life since I was a freshman in college.
+
+I’ve been thinking about what I want to do with
+2023-04-30 20:52:26.817281 : package com.mygdx.game.desktop;
+
+import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
+import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
+import com.mygdx.game.MyGdxGame;
+
+public class DesktopLauncher {
+	public static void main (String[] arg) {
+		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
+        config.height = 540;
+        config.width = 960;
+        config.title = "Tower Defense";
+		new Lw
+2023-04-30 20:52:32.026937 : package com.example.android.musicplayer;
+
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        TextView nowPlaying = (TextView) findViewById(R.id.nowPlaying);
+        nowPlaying.setOnClickListener(new View
+2023-04-30 20:52:37.181403 : package com.example.demo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.DiscoveryClient;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+@RestController
+public class Service1
+2023-04-30 20:52:39.477923 : package com.example.demo.dao;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.model.Product;
+
+@Repository
+public interface ProductDao extends JpaRepository<Product, Integer> {
+	
+	@Query("SELECT p FROM Product p WHERE p.id = :id")
+	Product
+2023-04-30 20:52:41.967020 : The F.B.I. has arrested a man accused of participating in the Jan. 6 attack on the Capitol, according to a criminal complaint.
+
+The man, Anthony Antonio, was arrested on Wednesday in Delaware, according to the complaint.
+
+The F.B.I. said it had reviewed video and photographs from Jan. 6 and identified Mr. Antonio as a man seen taking part in the attack.
+
+Mr. Antonio told the authorities that he had gone to the Capitol that day because he believed the election had been stolen, according to the complaint.
+
+Mr. Antonio is accused of unlawful entry and disorderly conduct on Capitol grounds.
+2023-04-30 20:52:44.058673 : package com.example.myapplication.ui.tab1;
+
+import android.content.Intent;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.ViewPager;
+import android.view.View;
+import android.widget.ImageView;
+
+import com.example.myapplication.R;
+import com.example.myapplication.base.BaseFragment;
+import com.example.myapplication.ui.tab1.fragment.Tab1Fragment
+2023-04-30 20:52:48.770170 : package com.example.myapplication;
+
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+public class MainActivity extends AppCompatActivity {
+
+    private Button button;
+    private Button button2;
+    private Button button3;
+    private Button button4;
+    private Button button5;
+    private Button button6;
+    private Button button7;
+    private Button button8;
+    private Button button9;
+    private Button button10;
+    private Button button11;
+    private Button button
+2023-04-30 20:52:50.572604 : package com.example.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+@SpringBootApplication
+@EnableEurekaServer
+public class EurekaServerDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EurekaServerDemoApplication.class, args);
+	}
+}
+2023-04-30 20:52:56.224419 : package com.example.kotlinbasics.Delegation
+
+import kotlin.properties.ReadWriteProperty
+import kotlin.reflect.KProperty
+
+class LazyDelegation(val initializer: () -> Int) : ReadWriteProperty<Any
+2023-04-30 20:53:01.283968 : The following is a list of the top 10 most-read news stories on the website of The Advertiser-Gleam for the week of Oct. 30-Nov. 5.
+
+1. ‘I was just trying to help,’ says man who shot at armed robber
+
+2. Union County man charged with sexual battery against a child
+
+3. Lake Butler man charged with sexual battery against a child
+
+4. Union County man arrested for sexual battery against a child
+
+5. Union County man arrested for sexual battery against a child
+
+6. Union County man arrested for sexual battery against a child
+
+7. Union County man arrested for sexual battery against a child
+
+8. Union County
+2023-04-30 20:53:03.478979 : package com.example.myapplication.ui.home;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.TextView;
+
+import androidx.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.Observer;
+import androidx.lifecycle.ViewModelProviders;
+
+import com.example.myapplication.R;
+2023-04-30 20:53:04.640892 : package com.santosh.springwebsocket.model;
+
+import lombok.Data;
+
+@Data
+public class UserResponse {
+
+    private String content;
+}
+2023-04-30 20:53:07.023425 : The United States is one of the most attractive places for immigrants. The country offers many opportunities for employment, education, and business. Every year, thousands of immigrants come to the United States in search of a better life.
+
+The United States has a complex and complicated immigration system. The immigration laws are constantly changing, and the process of applying for a visa can be confusing.
+
+If you are planning to move to the United States, you should consult an immigration attorney. An immigration attorney can help you understand the immigration process and help you obtain a visa.
+
+There are many different types of visas available to immigrants. The type of visa you need depends on the reason you are moving to the United States.
+
+The most common type
+2023-04-30 20:53:14.139372 : package com.example.demo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.dao.UserDao;
+import com.example.demo.entity.User;
+
+@Service
+public class UserService {
+
+	@Autowired
+	private UserDao userDao;
+	
+	public List<User> findAll(){
+		return userDao.findAll();
+	}
+	
+	public User findById(int id) {
+2023-04-30 20:53:15.238990 : Product Description
+
+A fun, interactive way to teach your students to use the "z" sound to spell words. Students will love the chance to get up and move around the room to spell words.
+2023-04-30 20:53:20.478512 : package com.example.a.t11_sqlite;
+
+import android.content.ContentValues;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.Toast;
+
+public class MainActivity extends AppCompatActivity {
+    EditText editText;
+    EditText editText2;
+    SQLiteDatabase db;
+
+    @Override
+    protected void onCreate(Bundle saved
+2023-04-30 20:53:22.883887 : The following is an excerpt from an article published by the Washington Post on January 20, 2015.
+
+The Obama administration is extending the deadline for Americans to sign up for health insurance under the Affordable Care Act by one day, to midnight Jan. 31.
+
+The extension, announced by the administration late Sunday night, comes as the White House is facing intense pressure to show that it can fix the troubled rollout of President Obama’s signature domestic achievement.
+
+The move comes after a day in which the administration had to acknowledge that it failed to meet its goal of signing up 6 million people for private insurance by the end of the month. The White House has not said how many people have signed up for coverage, though it has promised to
+2023-04-30 20:53:26.315310 : What is the best way to get a job in the USA
+2023-04-30 20:53:28.568704 : Tito Ortiz wants to fight Fedor Emelianenko, but he isn't sure that the Russian heavyweight legend is still interested in fighting.
+
+"I want to fight Fedor," Ortiz told MMAjunkie. "I don't know if Fedor wants to fight anymore, but I'd love to fight Fedor."
+
+The former UFC light heavyweight champion, who is returning to the promotion after a nearly 10-year hiatus, faces fellow UFC Hall of Famer Forrest Griffin at UFC 106 on Nov. 21.
+
+Ortiz (15-6-1 MMA, 14-6-1 UFC) has been linked to a fight with Emelianenko (31-3 MMA, 1-2 MMA)
+2023-04-30 20:53:30.565057 : We are a full service custom sign company specializing in Signs, Banners, Vehicle Wraps, Decals, Graphic Design, Web Design, Printing, Promotional Products, Business Cards, Postcards, Brochures, Flyers, Door Hangers, Signs, Vehicle Wraps, Decals, Graphic Design, Web Design, Printing, Promotional Products, Business Cards, Postcards, Brochures, Flyers, Door Hangers, Signs, Vehicle Wraps, Decals, Graphic Design, Web Design, Printing, Promotional Products, Business Cards, Postcards, Brochures, Flyers, Door Hangers.
+
+We are a full service custom sign company specializing in Signs, Banners, Vehicle Wraps, Decals, Graphic Design
+2023-04-30 20:53:34.717057 : package com.mygdx.game.game;
+
+import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
+import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
+import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
+import com.badlogic.gdx.math.
+2023-04-30 20:53:38.190811 : package com.example.shoppinglistapp.repository;
+
+import android.app.Application;
+import android.os.AsyncTask;
+
+import androidx.lifecycle.LiveData;
+
+import com.example.shoppinglistapp.dao.ShoppingListDao;
+import com.example.shoppinglistapp.database.ShoppingListDatabase;
+import com.example.shoppinglistapp.model.ShoppingList;
+
+import java.util.List;
+
+public class ShoppingListRepository {
+    private ShoppingListDao shoppingListDao;
+    private LiveData<List<ShoppingList>> allShoppingLists;
+2023-04-30 20:53:43.584065 : The U.S. Department of Justice (DOJ) Office of Justice Programs (OJP) is seeking applications for funding under the National Training and Technical Assistance Center (NTTAC) Program. The purpose of this program is to provide training and technical assistance to support the implementation of programs authorized by the Juvenile Justice and Delinquency Prevention Act of 2002 (JJDPA) and to support other crime prevention and juvenile justice programs.
+
+The NTTAC Program supports a National Training and Technical Assistance Center (NTTAC) to provide training and technical assistance to states, local jurisdictions, tribes, and tribal organizations to support the implementation of programs authorized by the JJDPA, and to support other crime prevention and juvenile justice programs.
+2023-04-30 20:53:47.888029 : The new year is a time for change, and that’s exactly what two of the biggest names in the world of music have done. Jay Z and Beyoncé have both changed their names.
+
+Beyoncé’s new name is now Bey, which is short for Beyoncé, and Jay Z’s new name is now Beyhive. The two artists have been known to use their new names on social media.
+
+Beyoncé’s new name is a nod to her fans, who are known as the Beyhive. Jay Z’s new name is a reference to his music streaming service, Tidal.
+
+The couple’s new names come after they
+2023-04-30 20:53:49.697756 : Abstract
+
+This thesis attempts to understand the relationship between the development of the American film industry and the growth of the American economy. The American film industry was a major industry in the early part of the twentieth century, and it helped to shape the American economy. The American film industry was also a major contributor to the development of the American economy. The American film industry helped to create jobs and to bring in revenue to the American economy. The American film industry also helped to promote American culture around the world.
+2023-04-30 20:53:51.190920 : I'm not sure what you mean by "the same as the other one". If you mean "the same as the other one" as in "the same as the other one" then I'm pretty sure you're right. If you mean "the same as the other one" as in "the same as the other one" then I'm pretty sure you're right.
+2023-04-30 20:53:52.557503 : I'm looking to use a custom search engine in my web application. I'm wondering if there's a way to integrate Google's search engine into my application so that users can search my site and other websites
+2023-04-30 20:53:57.571390 : After a few days of rain, the sun was out and it was a beautiful day. The weather was so nice that we decided to go to the park.
+
+We went to the park that is near our house. It is a small park and there are no swings. But there are two slides.
+
+I went down the slide.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again.
+
+I went down the slide again
+2023-04-30 20:53:59.366412 : package com.example.shoppinglist.model
+
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "shopping_list_table")
+class ShoppingList(
+    @PrimaryKey(autoGenerate = true)
+    @ColumnInfo(name = "shopping_list_id")
+    var id: Long
+2023-04-30 20:54:01.602703 : package com.example.sebastian.appdrawer.appdrawer;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.content.pm.ApplicationInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Rect;
+import android.graphics.drawable.BitmapDraw
+2023-04-30 20:54:03.784116 : package com.example.kotlin_study.sample12
+
+import android.content.Context
+import android.util.AttributeSet
+import android.view.LayoutInflater
+import android.widget.FrameLayout
+import android.widget.ImageView
+import android.widget.TextView
+import com.example.kotlin_study.R
+
+class MyCustomView @JvmOverloads constructor(context: Context, attrs: AttributeSet
+2023-04-30 20:54:05.076799 : I am a photographer and I am looking for a good web designer to build a new website. I need a website that is easy to use, fast and can be viewed on all devices. I have some ideas of what I want but I am open to suggestions. I am looking to have a site built in the next month. I have a small budget.
+2023-04-30 20:54:07.652348 : Position Summary:
+
+The Project Manager will be responsible for managing multiple projects and developing project plans for the completion of the projects. The Project Manager will be responsible for ensuring the project is completed on time, within the budget, and to the customer’s specifications. The Project Manager will also be responsible for managing the project team and communicating with the customer.
+
+
+
+Essential Functions:
+
+• Manage multiple projects and developing project plans for the completion of the projects.
+
+• Ensure the project is completed on time, within the budget, and to the customer’s specifications.
+
+• Manage the project team and communicating with the customer.
+
+• Ensure compliance with all safety standards and regulations.
+2023-04-30 20:54:12.011032 : package com.example.demo.repository;
+
+import com.example.demo.model.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface UserRepository extends JpaRepository<User, Long> {
+    User findByEmail(String email);
+
+    @Query(value = "SELECT u FROM User u
+2023-04-30 20:54:14.081414 : package com.example.myapplication;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import com.example.myapplication.model.User;
+
+public class MainActivity extends AppCompatActivity {
+
+    private EditText edtUsername;
+    private EditText edtPassword;
+    private Button btnLogin;
+    private Button btnRegister;
+
+    @Override
+    protected void onCreate(Bundle saved
+2023-04-30 20:54:22.940633 : package com.example.app.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.app.model.Book;
+import com.example.app.repository.BookRepository;
+
+@Service
+public class BookService {
+
+	@Autowired
+	private BookRepository bookRepository;
+	
+	public List<Book> findAll(){
+		return bookRepository.findAll();
+	}
+}
+2023-04-30 20:54:25.258602 : package com.example.myapplication;
+
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.String
+2023-04-30 20:54:29.667490 : This is the second post in my series on the relationship of the Old and New Testaments. Last time I looked at how the OT anticipates the NT. This time I want to look at how the NT interprets the OT.
+
+The New Testament interprets the Old Testament in a couple of different ways. First, the NT interprets the OT in a literal way. This means that the NT interprets the OT as a historical document. The NT interprets what happened in the OT as actually happening. For example, the NT interprets the creation account in Genesis as actually happening. It interprets the account of Noah’s ark and the flood as actually happening. It interprets the account of Abraham, Isaac, and
+2023-04-30 20:54:35.749377 : A few months ago, I wrote a post about the importance of having a “why”. A why that drives you. A why that motivates you. A why that makes you want to get up and go to work every morning.
+
+I’ve been thinking about that post a lot lately, and I’ve realized that it’s not enough to have a “why”. You also need a “how”.
+
+I’m not talking about the how that you use to get things done. I’m talking about the how that’s going to help you achieve your why.
+
+How are you going to achieve your dreams
+2023-04-30 20:54:36.777619 : The hostel is located in the center of the city. It is close to the metro station, museums, restaurants and cafes. The hostel is located in a historic building. There is a garden and a terrace. The hostel is suitable for solo travelers and families.
+
+translated by Google
+2023-04-30 20:54:38.940331 : The following is an excerpt from the new book, The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo.
+
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo (Harmony, $16)
+
+A few years ago, I was in the midst of a major life change. I had quit my job and was preparing to launch my own business. I had moved out of the apartment where I had been living and was staying in a rental house. It was a time of great upheaval, and I had no choice but to tidy up.
+
+I started with my clothes. I had a lot of
+2023-04-30 20:54:41.310944 : <!-- Main Content -->
+<div class="main-content">
+    <section class="section">
+        <div class="section-header">
+            <div class="section-header-back">
+                <a href="<
+2023-04-30 20:54:43.887920 : package com.yun.ma.yi.app.module.common.view;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.handmark.pulltorefresh.library.PullTo
+2023-04-30 20:54:46.749866 : The first time I heard about the Great Pacific Garbage Patch, I was shocked. I had no idea that there was a floating island of trash in the ocean. This garbage patch is actually a collection of trash that has been floating in the ocean for a long time. The trash is made up of plastic, Styrofoam, and other materials. The garbage patch is located between Hawaii and California.
+
+The Great Pacific Garbage Patch was first discovered in 1997 by Captain Charles Moore. He was sailing in the Pacific Ocean when he noticed that there was a lot of trash in the water. He thought that the trash was from a ship that had sunk. However, he later realized that the trash was from all over the world
+2023-04-30 20:54:49.455893 : package com.example.demo.controller;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind
+2023-04-30 20:54:54.126267 : package com.example.myapplication;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.

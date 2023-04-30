@@ -1,6 +1,5 @@
 from typing import Union
 from fastapi import FastAPI
-import pandas as pd
 import json
 from fastapi.middleware.cors import CORSMiddleware
 import requests
